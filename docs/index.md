@@ -30,7 +30,9 @@ Este repositorio es una guía práctica para aprender arquitectura serverless, p
 
 ---
 
+
 **Proyecto educativo para Google Professional Data Engineer Certification**  
-Made with ❤️ for la comunidad de ingeniería de datos
+Made with ❤️ para la comunidad de ingeniería de datos
+
 
 
