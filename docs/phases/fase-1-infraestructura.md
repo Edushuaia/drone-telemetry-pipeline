@@ -37,6 +37,6 @@ gsutil mb ...
 
 ## Evidencias
 
-_Agrega capturas de pantalla o logs de consola aquí_
+### Agrega capturas de pantalla o logs de consola aquí
 
 ---
