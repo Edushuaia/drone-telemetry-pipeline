@@ -1,0 +1,26 @@
+title: Drone Telemetry Pipeline
+remote_theme: pages-themes/cayman@v0.2.0
+description: >-
+  Proyecto educativo: pipeline serverless de telemetría de drones en la nube.
+show_downloads: false
+navigation:
+  - title: Inicio
+    url: index.md
+  - title: Estructura del Proyecto
+    url: PROJECT_STRUCTURE.md
+  - title: Fases
+    children:
+      - title: Fase 1: Infraestructura
+        url: phases/fase-1-infraestructura.md
+      - title: Fase 2: Simulador
+        url: phases/fase-2-simulador.md
+      - title: Fase 3: Pipeline
+        url: phases/fase-3-pipeline.md
+      - title: Fase 4: GIS y Alertas
+        url: phases/fase-4-gis-alertas.md
+      - title: "Fase 5: Optimización"
+        url: phases/fase-5-optimizacion.md
+      - title: Fase 6: Looker
+        url: phases/fase-6-looker.md
+      - title: Fase 7: Testing
+        url: phases/fase-7-testing.md
